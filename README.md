@@ -1,7 +1,4 @@
-Here's an example of a `README.md` file for your GitHub repository. This README will provide clear instructions on setting up and using your quiz app, along with a brief explanation of the project.
-
 ---
-
 # Quiz App
 
 ## Description
